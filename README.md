@@ -14,8 +14,8 @@
   <img align="left" alt="Rizky Husain | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<br>
-# [![@rizkyhusain's Holopin board](https://holopin.me/rizkyhusain)](https://holopin.io/@rizkyhusain)
+
+[![@rizkyhusain's Holopin board](https://holopin.me/rizkyhusain)](https://holopin.io/@rizkyhusain)
 
 <br><br>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
