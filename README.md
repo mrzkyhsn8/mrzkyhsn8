@@ -1,5 +1,3 @@
-#I'm Muhammad Rizky Husain
-
 ### Hi there 👋🏼
 
 [![@rizkyhusain's Holopin board](https://holopin.me/rizkyhusain)](https://holopin.io/@rizkyhusain)
