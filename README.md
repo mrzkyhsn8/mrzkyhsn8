@@ -18,7 +18,7 @@
 [![@rizkyhusain's Holopin board](https://holopin.me/rizkyhusain)](https://holopin.io/@rizkyhusain)
 
 <br><br>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/mrzkyhsn8/mrzkyhsn8/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **Skills:**
 <br><br>
