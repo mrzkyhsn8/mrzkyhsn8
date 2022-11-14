@@ -15,7 +15,7 @@
 </a>
 
 <br><br>
-[![@rizkyhusain's Holopin board](https://holopin.me/rizkyhusain)](https://holopin.io/@rizkyhusain)
+[![@rizkyhusain's Holopin board](https://holopin.me/rizkyhusain)](https://holopin.io/@mrzkyhsn8)
 
 <br><br>
   <img align="right" alt="GIF" src="https://github.com/mrzkyhsn8/mrzkyhsn8/blob/master/code.gif?raw=true" width="500" height="320" />
