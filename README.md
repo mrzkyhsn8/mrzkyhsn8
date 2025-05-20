@@ -1,13 +1,13 @@
 # Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/muh-rizky-husain/">
-  <img align="left" alt="Rizky Husain | LinkedIn" width="40px" src="https://cdn2.iconfinder.com/data/icons/flat-social-media-icons-1/512/linkedin.png" />
+  <img align="left" alt="Rizky Husain | LinkedIn" width="40px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_likedin-512.png" />
 </a>
 <a href="https://www.instagram.com/mrizkyhusain/">
-  <img align="left" alt="Rizky Husain | Instagram" width="40px" src="https://cdn2.iconfinder.com/data/icons/flat-social-media-icons-1/512/instagram.png" />
+  <img align="left" alt="Rizky Husain | Instagram" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png" />
 </a>
 <a href="https://open.spotify.com/user/a1ah3fwy2hc6sx1mrzu8yh99x">
-  <img align="left" alt="Rizky Husain | Spotify" width="40px" src="https://cdn2.iconfinder.com/data/icons/flat-social-media-icons-1/512/spotify.png" />
+  <img align="left" alt="Rizky Husain | Spotify" width="40px" src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Spotify-512.png" />
 </a>
 
 <br><br>
