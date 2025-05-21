@@ -1,33 +1,24 @@
 # Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/muh-rizky-husain/">
-  <img align="left" alt="Rizky Husain | LinkedIn" width="40px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_likedin-512.png" />
-</a>
-<a href="https://www.instagram.com/mrizkyhusain/">
-  <img align="left" alt="Rizky Husain | Instagram" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png" />
-</a>
-<a href="https://open.spotify.com/user/a1ah3fwy2hc6sx1mrzu8yh99x">
-  <img align="left" alt="Rizky Husain | Spotify" width="40px" src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Spotify-512.png" />
-</a>
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muh-rizky-husain/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mrizkyhusain/) [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/kymoorz)
 
-<br><br>
-### I'm Rizky
-(jack of all trades master of none)
+#### I'm Rizky
+A curious mind who's always exploring. I’ve dabbled in many things (jack of all trades BUT master of none, you could say), and though staying consistent is a challenge, but I’m currently working as front-end developer.
 
----
+***
 
 [![@mrzkyhsn8's Holopin board](https://holopin.me/mrzkyhsn8)](https://holopin.io/@mrzkyhsn8)
 
----
+***
 
-<img align="right" alt="GIF" src="https://github.com/mrzkyhsn8/mrzkyhsn8/blob/master/code.gif?raw=true" width="500" height="320" />
+#### Skills and tools:
 
-**Skills:**
-<br><br>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
 
+
+[![mrzkyhsn8's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrzkyhsn8&show_icons=true&theme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
