@@ -4,9 +4,14 @@
 
 #### I'm Rizky
 
-<img align="right" height="250" width="400" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRzZ3c5cjIxcHhycTV2aHU1eDIxOWIwZXVrdWwwNHJ4a2RobGlzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A6qfXn5WIo4qA/giphy.gif">
-
+<div style='display: flex'>
+<p>
 A curious mind who's always exploring. I’ve dabbled in many things (jack of all trades BUT master of none, you could say), and though staying consistent is a challenge, but I’m currently working as front-end developer.
+</p>
+
+<img height="150" width="300" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpndXdtb2FuMGNtaXZocXdrZW90NnJjdmtmbGozMm5ibDBxMGYxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnT45z6H5gxFYZZS/giphy.gif">
+</div>
+
 
 ***
 
