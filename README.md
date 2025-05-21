@@ -25,7 +25,3 @@ A curious mind who's always exploring. I’ve dabbled in many things (jack of al
 
 #### Stats:
 [![mrzkyhsn8's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrzkyhsn8&show_icons=true&theme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
-***
-#### Now playing:
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/51fREwLAwFQMOz0SQJaE0p?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
