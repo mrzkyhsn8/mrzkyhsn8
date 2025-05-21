@@ -4,23 +4,13 @@
 
 #### I'm Rizky
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <p>
-        A curious mind who's always exploring. I’ve dabbled in many things (jack of all trades BUT master of none, you could say), and though staying consistent is a challenge, but I’m currently working as front-end developer.
-      </p>
-    </td>
-    <td width="40%">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRzZ3c5cjIxcHhycTV2aHU1eDIxOWIwZXVrdWwwNHJ4a2RobGlzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A6qfXn5WIo4qA/giphy.gif" width="100%" />
-    </td>
-  </tr>
-</table>
+<img align="right" height="100" width="200" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRzZ3c5cjIxcHhycTV2aHU1eDIxOWIwZXVrdWwwNHJ4a2RobGlzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A6qfXn5WIo4qA/giphy.gif">
+
+A curious mind who's always exploring. I’ve dabbled in many things (jack of all trades BUT master of none, you could say), and though staying consistent is a challenge, but I’m currently working as front-end developer.
 
 ***
 
 [![@mrzkyhsn8's Holopin board](https://holopin.me/mrzkyhsn8)](https://holopin.io/@mrzkyhsn8)
-
 
 ***
 
