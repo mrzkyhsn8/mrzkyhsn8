@@ -3,7 +3,15 @@
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muh-rizky-husain/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mrizkyhusain/) [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/kymoorz)
 
 #### I'm Rizky
-A curious mind who's always exploring. I’ve dabbled in many things (jack of all trades BUT master of none, you could say), and though staying consistent is a challenge, but I’m currently working as front-end developer.
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 6;">
+  A curious mind who's always exploring. I’ve dabbled in many things (jack of all trades BUT master of none, you could say), and though staying consistent is a challenge, I’m currently working as a front-end developer.
+  </div>
+  <div style="flex: 4;">
+    <img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhucG82MmkzOTB1ZmUweW13YXpsY2NoNXl0bzJibTV1dXBnMjN6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3TZgJXiwbdbLG/giphy.gif" />
+  </div>
+</div>
+
 
 ***
 
