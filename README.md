@@ -6,7 +6,18 @@
 
 ###
 
-<img align="right" height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpndXdtb2FuMGNtaXZocXdrZW90NnJjdmtmbGozMm5ibDBxMGYxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnT45z6H5gxFYZZS/giphy.gif"  />
+<img align="right" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lkMXo3MzY1d3ppd3VycXg2bHJvZndrZnhxOHIxNTljOXk4YzByNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G0Odfjd78JTpu/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrzkyhsn8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=mrzkyhsn8&theme=dracula&column=4&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<img align="left" height="170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhmMXI1NjJzYTZvZGptZzJocTE4N2hhMTk0eXR1aTJxMmo2ZjFsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iSKzJxYbX1Crm/giphy.gif"  />
 
 ###
 
@@ -38,7 +49,7 @@
 
 ###
 
-<h4 align="left">Socials:</h4>
+<p align="left">Socials:</p>
 
 ###
 
@@ -56,19 +67,18 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrzkyhsn8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=mrzkyhsn8&theme=dracula&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/mrzkyhsn8/mrzkyhsn8/output/snake.svg" alt="Snake animation" />
 
 ###
 
-![rizky's recently played](https://spotify-recently-played-readme.vercel.app/api?user=a1ah3fwy2hc6sx1mrzu8yh99x&count=1)
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/a1ah3fwy2hc6sx1mrzu8yh99x">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=a1ah3fwy2hc6sx1mrzu8yh99x&count=1&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
