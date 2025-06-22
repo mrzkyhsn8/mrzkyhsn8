@@ -6,11 +6,11 @@
 
 ###
 
-<h4 align="left">Skills and tools:</h4>
+<img align="right" height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpndXdtb2FuMGNtaXZocXdrZW90NnJjdmtmbGozMm5ibDBxMGYxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnT45z6H5gxFYZZS/giphy.gif"  />
 
 ###
 
-<img align="right" height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpndXdtb2FuMGNtaXZocXdrZW90NnJjdmtmbGozMm5ibDBxMGYxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnT45z6H5gxFYZZS/giphy.gif"  />
+<h4 align="left">Skills and tools:</h4>
 
 ###
 
@@ -58,7 +58,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrzkyhsn8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=mrzkyhsn8&theme=dracula&column=4&margin-w=0&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=mrzkyhsn8&theme=dracula&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
