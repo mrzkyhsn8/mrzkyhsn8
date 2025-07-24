@@ -11,17 +11,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrzkyhsn8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=mrzkyhsn8&theme=dracula&column=4&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrzkyhsn8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="left" height="170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhmMXI1NjJzYTZvZGptZzJocTE4N2hhMTk0eXR1aTJxMmo2ZjFsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iSKzJxYbX1Crm/giphy.gif" style='padding: 18px' />
-
-###
-
-<h4 align="left">Skills and tools:</h4>
+<h3 align="left">Skills and tools:</h3>
 
 ###
 
@@ -49,7 +44,7 @@
 
 ###
 
-<p align="left">Socials:</p>
+<h3 align="left">Socials:</h3>
 
 ###
 
